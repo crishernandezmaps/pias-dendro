@@ -1,0 +1,249 @@
+name,department,manager
+FIA,A,TAFruti
+ODEPA,A,TAFruti
+Surfrut,A,TAFruti
+UCENTRAL,A,TAFruti
+ASOEX,A,TAFruti
+Chilealimentos,A,TAFruti
+FEDEFRUTA,A,TAFruti
+Hortifrut,A,TAFruti
+INIA,A,TAFruti
+APÑuble,A,TAFruti
+Fruséptima,A,TAFruti
+FIA,A,TAProcess
+Granotec,A,TAProcess
+SONAPESCA,A,TAProcess
+ACHIPIA,A,TAProcess
+Carozzi,A,TAProcess
+Chilealimentos,A,TAProcess
+ChileBotanics,A,TAProcess
+Contexto Ciudadano,A,TAProcess
+División Políticas Públicas MINSAL,A,TAProcess
+INTA,A,TAProcess
+Nutrapharm,A,TAProcess
+SPS,A,TAProcess
+Subdirección Innovación UCHILE,A,TAProcess
+SUBPESCA,A,TAProcess
+UCENTRAL,A,TACE
+MINAGRI,A,TACE
+ACHIPIA,A,TACE
+CORFO,A,TACE
+FIA,A,TACE
+Chilealimentos,A,TACE
+ODEPA,A,TACE
+GDC,A,TACE
+CORFO,A,TAVIP
+MINAGRI,A,TAVIP
+MINECON,A,TAVIP
+Surfrut,A,TAVIP
+Granotec,A,TAVIP
+PUC,A,CETA
+Härting,A,CETA
+AB Chile,A,CETA
+UCHILE,A,CETA
+UTALCA,A,CETA
+UFRO,A,CETA
+Fraunhofer Chile,A,CETA
+Fundación Chile,A,CETA
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+CETA,A,Centros Tecnológicos
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+Centros Tecnológicos,A,GCT
+GCT,A,CORFO
+GCT,A,CORFO
+GCT,A,CORFO
+GCT,A,CORFO
+GCT,A,CORFO
+GCT,A,CORFO
+GCT,A,CORFO
+GCT,A,CORFO
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+Gourmet Ltda,A,L1
+ASEMAFOR,A,L1
+Aiguasol,A,L1
+CASOL,A,L1
+Lacteos Los Puquios,A,L1
+SPS,A,L1
+Team Foods,A,L1
+L1,A,I+D Empresarial
+L1,A,I+D Empresarial
+L1,A,I+D Empresarial
+L1,A,I+D Empresarial
+L1,A,I+D Empresarial
+L1,A,I+D Empresarial
+L1,A,I+D Empresarial
+I+D Empresarial,A,Innova
+I+D Empresarial,A,Innova
+I+D Empresarial,A,Innova
+I+D Empresarial,A,Innova
+I+D Empresarial,A,Innova
+I+D Empresarial,A,Innova
+I+D Empresarial,A,Innova
+Innova,A,CORFO
+Innova,A,CORFO
+Innova,A,CORFO
+Innova,A,CORFO
+Innova,A,CORFO
+Innova,A,CORFO
+Innova,A,CORFO
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+CORFO,A,TACE
+Dueik,A,DICTUC
+DICTUC,A,L2
+L2,A,I+D Empresarial
+I+D Empresarial,A,Innova
+Innova,A,CORFO
+CORFO,A,TACE
+Surfrut,A,L2
+L2,A,I+D Empresarial
+I+D Empresarial,A,Innova
+Innova,A,CORFO
+CORFO,A,TACE
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAFruti,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TAProcess,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TAVIP,A,TA
+TAVIP,A,TA
+TAVIP,A,TA
+TAVIP,A,TA
+TAVIP,A,TA
+CETA,A,TA
+CETA,A,TA
+CETA,A,TA
+CETA,A,TA
+CETA,A,TA
+CETA,A,TA
+CETA,A,TA
+CETA,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+Centros Tecnológicos,A,TA
+GCT,A,TA
+GCT,A,TA
+GCT,A,TA
+GCT,A,TA
+GCT,A,TA
+GCT,A,TA
+GCT,A,TA
+GCT,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+L1,A,TA
+L1,A,TA
+L1,A,TA
+L1,A,TA
+L1,A,TA
+L1,A,TA
+L1,A,TA
+I+D Empresarial,A,TA
+I+D Empresarial,A,TA
+I+D Empresarial,A,TA
+I+D Empresarial,A,TA
+I+D Empresarial,A,TA
+I+D Empresarial,A,TA
+I+D Empresarial,A,TA
+Innova,A,TA
+Innova,A,TA
+Innova,A,TA
+Innova,A,TA
+Innova,A,TA
+Innova,A,TA
+Innova,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+CORFO,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+TACE,A,TA
+DICTUC,A,TA
+L2,A,TA
+I+D Empresarial,A,TA
+Innova,A,TA
+CORFO,A,TA
+TACE,A,TA
+L2,A,TA
+I+D Empresarial,A,TA
+Innova,A,TA
+CORFO,A,TA
+TACE,A,TA
